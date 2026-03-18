@@ -87,6 +87,9 @@ O **Jupyter Notebook** incluído neste repositório foi configurado para garanti
 Isso significa que o arquivo pode ser visualizado e as conclusões podem ser validadas imediatamente, sem a necessidade de re-execução das células de código. 
 
 > **Nota:** Para explorar os resultados e a documentação técnica detalhada, acesse o link do repositório ou abra o arquivo `.ipynb` diretamente através do visualizador do GitHub.
+---
+### Youtube 
+* **Link Youtube (PBL-Entrega 1-Fase 5):** [https://www.youtube.com/watch?v=uH6xdJEFYgs](https://www.youtube.com/watch?v=uH6xdJEFYgs)
 
 ---
 ## Entrega 2 : Dimensionamento de Infraestrutura e Custos (AWS)
@@ -127,7 +130,12 @@ A proximidade geográfica entre os sensores da fazenda e o datacenter reduz dras
 * **Estabilidade:** Menor distância física minimiza a perda de pacotes e garante a fluidez da aplicação, o que seria prejudicado pelos atrasos inerentes à conexão com servidores na América do Norte.
 
 > **Conclusão:** Mesmo com o custo adicional, a região de São Paulo é a única que atende simultaneamente aos requisitos de performance técnica e segurança jurídica necessários para a operação da FarmTech Solutions.
+---
+### Youtube 
 
+* **Link Youtube (PBL-Entrega 2-Fase 5):** [https://www.youtube.com/watch?v=LRJbay77Rd8](https://www.youtube.com/watch?v=LRJbay77Rd8)
+
+---
 #### 📸 Registros do AWS Pricing Calculator
 
 ![São Paulo](assets/SP1.png)
@@ -137,6 +145,7 @@ A proximidade geográfica entre os sensores da fazenda e o datacenter reduz dras
 ![Virgínia do Norte](assets/VRG1.png)
 ![Virgínia do Norte](assets/VRG2.png)
 ![Virgínia do Norte](assets/VRG3.png)
+
 
 ## 📋 Licença
 
